@@ -1,0 +1,6 @@
+objectid,format,filename,title,description,latitude,longitude,source,identifier,type,language,rights,rightsstatement,youtubeid,vimeoid,creator,date,subject,location
+coll001,image/jpeg,test001.jpg,Molteni F.Lli,"Equivalent to ""description"" column from Google Maps",10.019405364990234,45.137271881103516,,,,,,,,,,,,
+coll002,image/jpeg,test002.jpg,Civic Museum of Natural History,,10.021401405334473,45.138397216796875,,,,,,,,,,,,
+,,,Vladimiro Cubanzi,,10.022306442260742,45.13837814331055,,,,,,,,,,,,
+,,,Monumento Antonio Stradivari,,10.023512840270996,45.13370895385742,,,,,,,,,,,,
+,,,Via Solferino,,10.024677276611328,45.1342887878418,,,,,,,,,,,,
